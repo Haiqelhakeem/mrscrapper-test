@@ -1,4 +1,4 @@
-# AMGR WEB SCRAPER USING GEMINI
+# AMGR Web Scraper Using Gemini
 
 This script automates data scraping from the American Meat Goat Registry (AMGR) directory search page using Selenium. It integrates Google Gemini AI to interpret natural language commands from the user (via CLI) into structured search filters (state, member, breed).
 
